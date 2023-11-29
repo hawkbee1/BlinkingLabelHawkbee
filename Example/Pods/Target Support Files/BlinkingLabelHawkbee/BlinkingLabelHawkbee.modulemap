@@ -1,0 +1,6 @@
+framework module BlinkingLabelHawkbee {
+  umbrella header "BlinkingLabelHawkbee-umbrella.h"
+
+  export *
+  module * { export * }
+}

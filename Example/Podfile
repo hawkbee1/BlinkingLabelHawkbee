@@ -1,6 +1,13 @@
 use_frameworks!
-target 'BlinkingLabelHawkbee_Tests' do
+
+platform :ios, '10.0'
+
+target 'BlinkingLabelHawkbee_Example' do
   pod 'BlinkingLabelHawkbee', :path => '../'
-  
-  
+
+  target 'BlinkingLabelHawkbee_Tests' do
+    inherit! :search_paths
+
+    
+  end
 end

@@ -1,0 +1,16 @@
+PODS:
+  - BlinkingLabelHawkbee (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLabelHawkbee (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLabelHawkbee:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlinkingLabelHawkbee: 1413ec0a74f7987f422f8bd9dac90de82724536e
+
+PODFILE CHECKSUM: bfe0bb089645d756812d5c10eb0cf681e21d9ad3
+
+COCOAPODS: 1.14.3
