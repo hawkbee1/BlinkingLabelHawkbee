@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BlinkingLabelHawkbee_Tests' do
+  pod 'BlinkingLabelHawkbee', :path => '../'
+  
+  
+end
